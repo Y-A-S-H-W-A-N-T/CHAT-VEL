@@ -1,0 +1,14 @@
+.side-bar{
+    background-color: rgb(76, 240, 226);
+    width: 378px;
+    height: 595px;
+    border-radius: 33px;
+}
+.logo{
+    height: 60px;
+    width: 60px;
+    border-radius: 30px;
+    position: absolute;
+    top: 539px;
+    left: 393px;
+}
