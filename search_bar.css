@@ -2,11 +2,11 @@
     position: absolute;
     top: 539px;
     left: 460px;
+    width: 800px;
 }
 
 .search-bar{
-    max-width: 600px;
-    width:900px;
+    width:755px;
     background-color: rgb(64, 212, 218);
     padding: 20px;
     border-radius: 40px;
@@ -19,7 +19,7 @@
     flex: 1;
     border: 0;
     outline: none;
-    width: 500px;
+    width: 660px;
     color: rgb(255, 255, 255);
 }
 
@@ -30,15 +30,15 @@
 .search-bar button{
     position: absolute;
     top: 4.5px;
-    left: 550px;
+    left: 706px;
     border-radius: 30px;
     height: 55px;
     width: 80px;
     border: none;
 }
 .search-bar button img{
-    height: 30px;
-    width: 30px;
+    height: 40px;
+    width: 40px;
 }
 
 .search-bar button:hover{

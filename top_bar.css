@@ -1,0 +1,9 @@
+.top_bar{
+    background-color: rgb(76, 240, 226);;
+    width: 850px;
+    height: 517px;
+    position: absolute;
+    top: 10px;
+    left: 397px;
+    border-radius: 30px;
+}
